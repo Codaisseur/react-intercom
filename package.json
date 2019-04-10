@@ -1,5 +1,5 @@
 {
-  "name": "react-intercom",
+  "name": "@codaisseur/react-intercom",
   "version": "1.0.15",
   "description": "A component to initialize Intercom in your application",
   "main": "lib/index.js",
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhagen/react-intercom.git"
+    "url": "git+https://github.com/Codaisseur/react-intercom.git"
   },
-  "author": "Nathan Hagen",
+  "author": "Codaisseur",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nhagen/react-intercom/issues"
+    "url": "https://github.com/Codaisseur/react-intercom/issues"
   },
-  "homepage": "https://github.com/nhagen/react-intercom#readme"
+  "homepage": "https://github.com/Codaisseur/react-intercom#readme"
 }
