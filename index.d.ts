@@ -5,4 +5,6 @@ export interface IReactIntercomProps {
   [key: string]: any;
 }
 
+export function IntercomAPI(...args: any[]): void;
+
 export default class Intercom extends Component<IReactIntercomProps> {}
